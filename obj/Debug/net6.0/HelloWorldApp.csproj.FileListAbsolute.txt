@@ -1,0 +1,15 @@
+/Users/seankeenan/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp
+/Users/seankeenan/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.deps.json
+/Users/seankeenan/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.runtimeconfig.json
+/Users/seankeenan/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.dll
+/Users/seankeenan/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.pdb
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.AssemblyReference.cache
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfo.cs
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.dll
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/refint/HelloWorldApp.dll
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.pdb
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.genruntimeconfig.cache
+/Users/seankeenan/HelloWorldApp/obj/Debug/net6.0/ref/HelloWorldApp.dll
